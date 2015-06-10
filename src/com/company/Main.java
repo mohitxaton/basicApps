@@ -18,5 +18,7 @@ public class Main {
         m.put(a2,a2);
 
         System.out.println(m.get(a1).getName());
+
+        System.out.println(10%5);
     }
 }
